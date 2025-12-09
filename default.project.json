@@ -1,5 +1,5 @@
 {
-	"name": "axon@1.0.0",
+	"name": "axon-rbx",
 	"emitLegacyScripts": false,
 	"tree": {
 		"$className": "DataModel",
